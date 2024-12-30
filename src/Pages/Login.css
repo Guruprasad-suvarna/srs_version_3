@@ -324,3 +324,18 @@
     transform: translateY(-4px);
   }
 } */
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+select {
+  /* border: none; */
+  margin-bottom: 15px;
+  padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}

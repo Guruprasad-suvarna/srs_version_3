@@ -90,7 +90,7 @@
   display: flex;
   justify-content: space-between; /* Align filters on the left and controls on the right */
   align-items: center;
-  background-color: #f8f8f8;
+  /* background-color: #f8f8f8; */
   padding: 10px 20px;
   position: sticky;
   top: 0;
@@ -110,7 +110,7 @@
 }
  
 .filter-item {
-  background-color: #e0e0e0;
+  background-color: #ccc;
   padding: 5px 10px;
   border-radius: 20px;
   display: flex;
